@@ -1,0 +1,9 @@
+{
+  "name": "facebook-authentication",
+  "version": "1.0.0",
+  "description": "Authentication with Facebook",
+  "main": "index.js",
+  "repository": "git@github.com:eusouodaniel/facebook-authentication.git",
+  "author": "eusouodaniel <danielrodriguesdrs331@gmail.com>",
+  "license": "MIT"
+}
